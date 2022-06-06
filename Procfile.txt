@@ -1,1 +1,1 @@
-web: gunicorn mypcmachinel
+web: gunicorn app:app
