@@ -3,7 +3,7 @@ click==8.0.3
 colorama==0.4.4
 distlib==0.3.4
 filelock==3.3.1
-Flask==1.1.2
+Flask==1.1.1
 Flask-RESTful==0.3.9
 gunicorn==58.0.4
 itsdangerous==2.0.1
