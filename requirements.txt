@@ -1,11 +1,11 @@
 aniso8601==9.0.1
-click==8.0.3
+click==8.1.3
 colorama==0.4.4
 distlib==0.3.4
-filelock==3.3.1
-Flask==1.1.1
+filelock==3.7.1
+Flask==1.1.2
 Flask-RESTful==0.3.9
-gunicorn==58.0.4
+gunicorn==20.0.4
 itsdangerous==2.0.1
 Jinja2==2.11.3
 joblib==1.1.0
